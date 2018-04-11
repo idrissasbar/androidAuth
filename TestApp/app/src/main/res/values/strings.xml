@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="welcome">Welcome</string>
+
+
+    <string name="login_name">Login</string>
+    <string name="login_pass">Password</string>
+    <string name="logged_in">Loged in !</string>
+    <string name="ctoserver">Connecting to server</string>
+    <string name="error_log_in">Error logging in</string>
+    <string name="userKey">SharedPrefs</string>
+    <string name="logo">logo</string>
+    <string name="username_error">invalide email</string>
+    <string name="password_error">password invalide</string>
+</resources>
